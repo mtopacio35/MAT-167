@@ -1,1 +1,2 @@
 # MAT-167
+In Python, this project demonstrates how discrete cosine transformation is used to express an audio signal and the creation of a filter function in which a given coefficient and threshold can compute the coefficient after filtering the coefficient smaller than the threshold can work in changing audio signal compression and reconstruction. A metrics function is also created to return relative error values as well as a compression ratio. After obtaining the compressed signals, we compare the differences in distortion between the different signals. 
